@@ -2,6 +2,9 @@
 
 This project demonstrates a simple drag and drop functionality implemented using HTML, CSS, and JavaScript. It allows users to drag multiple items from a drag container to a drop container.
 
+##Live --> 
+[dwmo](https://harshsingh11-cyber.github.io/Drag-Drop/)
+
 ## Features
 
 - Draggable items can be picked up and moved using the mouse cursor.
