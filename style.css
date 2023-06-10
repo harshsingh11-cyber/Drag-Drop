@@ -1,0 +1,50 @@
+.main {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+.child {
+    width: 400px;
+    height: auto;
+    padding: 50px;
+    background-color: blue;
+}
+
+.container {
+    display: flex;
+}
+
+.drag-container {
+    width: 200px;
+    padding: 20px;
+    background-color: burlywood;
+    margin: 10px;
+}
+
+.drop-container {
+    width: 200px;
+    height: 200px;
+    border: 2px dashed #ccc;
+    padding: 10px;
+    margin: 10px;
+    background-color: chartreuse;
+}
+
+.draggable {
+    background-color: #f1f1f1;
+    padding: 10px;
+    margin-bottom: 5px;
+    cursor: move;
+}
+
+.drag-over {
+    background-color: #e0e0e0;
+}
+
+.dragging {
+    opacity: 0.5;
+}
