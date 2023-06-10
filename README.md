@@ -35,17 +35,9 @@ To run this project locally, follow these steps:
 You can customize the drag and drop functionality according to your requirements:
 
 - Modify the HTML structure to change the layout and styling.
-- Update the CSS styles in the `styles.css` file to change the appearance of the containers and items.
-- Adjust the JavaScript code in the `script.js` file to modify the drag and drop behavior.
+- Update the CSS styles in the `style.css` file to change the appearance of the containers and items.
+- Adjust the JavaScript code in the `app.js` file to modify the drag and drop behavior.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or want to enhance the functionality, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- This project was inspired by the need for a simple drag and drop functionality in web applications.
+## images...
+![Screenshot (537)](https://github.com/harshsingh11-cyber/Drag-Drop/assets/65847214/b13098a3-2c61-4b70-933c-80e8a5fb4e6d)
+![Screenshot (536)](https://github.com/harshsingh11-cyber/Drag-Drop/assets/65847214/4dd89367-70c6-4707-baa1-6ee8462a948b)
